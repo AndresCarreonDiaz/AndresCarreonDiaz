@@ -1,7 +1,7 @@
 ### Hi, I'm Andres 👋
 
 **Senior SDET / Quality Engineer** with 9 years in test automation, CI and release engineering.
-Remote from Monterrey, Mexico, working with teams worldwide.
+working with teams worldwide.
 
 - 🔐 **Exodus Movement (2022–2026):** built the end-to-end test automation from zero for a self-custody crypto wallet used by millions: iOS and Android (Appium, Maestro), Electron desktop, browser extension and web (Playwright), all headless in CI. Led a team of 4 QA engineers and owned release sign-off.
 - 🏢 **Accenture (2017–2022):** led a QA team of 15 building automated regression suites for enterprise systems.
