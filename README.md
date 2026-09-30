@@ -15,4 +15,4 @@ working with teams worldwide.
 
 Most of my professional test code lives in private company repositories. The public repos here are my own projects.
 
-📄 [CV](https://www.andresio.com/Andres-Carreon-CV.pdf) · 🌐 [andresio.com](https://www.andresio.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andrescarreon/) · ✉️ andres@andresio.com
+📄 [CV](https://www.andresio.com/Andres-Carreon-CV.pdf) · 🌐 [andresio.com](https://www.andresio.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andrescarreon/)
